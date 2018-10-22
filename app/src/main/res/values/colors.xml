@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- colors.xml
+colors resource file
+Created by: Spencer Miller
+Created on: 2/24/18
+Last Modified by: Spencer Miller
+Last Modified on: 3/2/18
+Assignment/Project: A290 Android Development Final Project
+Part of: Math Facts Project
+-->
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#dde7f4</color>
+    <color name="gameBackground">#f06660</color>
+    <color name="gameTop">#dde7f4</color>
+    <color name="trianglesColor">#572f92</color>
+    <color name="circles">#a3e765</color>
+    <color name="text">#000000</color>
+    <color name="gameover">#c4121c</color>
+</resources>
